@@ -1,6 +1,6 @@
 # Plants & Python
 
-Welcome to HRT891A: Foundation in Computational Plant Science!
+**Welcome to HRT891A: Foundation in Computational Plant Science!**
 
 This course brings together plant biologists and data scientists to learn fundamental concepts in plant science using a computational mindset.
 
@@ -10,7 +10,7 @@ Coding and plant biology can be intimidating to those with no prior experience. 
 
 ***Above all, find joy in the way mathematics and modeling can reveal the underlying beauty of plants!***
 
-If you are new to Jupyter and Python, read the [download instructions]() or watch a or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
+If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/PlantsAndPython/blob/master/PlantsAndPython0_GettingStartedWithJupyter.ipynb) or watch a or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
 
 You can view the Jupyter notebooks on the Jupyter nbviewer by clicking on the following link, https://nbviewer.jupyter.org/github/DanChitwood/PlantsAndPython/tree/master/
 
