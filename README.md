@@ -1,3 +1,5 @@
+![alt text](https://github.com/DanChitwood/PlantsAndPython/blob/master/plantsandpython.jpg)
+
 # Plants & Python
 
 **Welcome to HRT891A: Foundation in Computational Plant Science!**
