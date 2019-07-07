@@ -12,9 +12,9 @@ Coding and plant biology can be intimidating to those with no prior experience. 
 
 ***Above all, find joy in the way mathematics and modeling can reveal the underlying beauty of plants!***
 
-If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/PlantsAndPython/blob/master/PlantsAndPython0_GettingStartedWithJupyter.ipynb) or watch a or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
+If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/PlantsAndPython/blob/master/PlantsAndPython0_GettingStartedWithJupyter.ipynb) or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
 
-You can view the Jupyter notebooks on the Jupyter nbviewer by clicking on the following link, https://nbviewer.jupyter.org/github/DanChitwood/PlantsAndPython/tree/master/
+You can view the Jupyter notebooks on the nbviewer by clicking on the following link, https://nbviewer.jupyter.org/github/DanChitwood/PlantsAndPython/tree/master/
 
 You can ***interact*** with the Jupyter notebooks in an executable environment using mybinder, by clinking on the icon
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanChitwood/PlantsAndPython/master)
