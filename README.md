@@ -1,5 +1,7 @@
 ![alt text](https://github.com/DanChitwood/PlantsAndPython/blob/master/plantsandpython.jpg)
 
+# The updated version of Plants & Python is now a Jupyter Book: [https://plantsandpython.github.io/PlantsAndPython/](https://plantsandpython.github.io/PlantsAndPython/)
+
 # Plants & Python
 
 **Welcome to HRT891A: Foundation in Computational Plant Science!**
